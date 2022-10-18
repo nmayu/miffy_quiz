@@ -1,16 +1,16 @@
 const quiz = [
     {
         question:'1.ミッフィーの誕生はいつ？',
-        answers:['あ','い','う','え'],
-        correct:'あ'
+        answers:['1月21日','3月15日','6月21日','11月14日'],
+        correct:'6月21日'
     },{
-        question:'2.いつ？',
-        answers:['あ','い','う','え'],
-        correct:'あ'
+        question:'2.ミッフィーの特技は何？',
+        answers:['歌','山登り','ダンス','鬼ごっこ'],
+        correct:'山登り'
     },{
-        question:'3.いつだ？',
-        answers:['あ','い','う','え'],
-        correct:'い'
+        question:'3.ミッフィーの生まれはどこ？',
+        answers:['オランダ','ノルウェー','スイス','ドイツ'],
+        correct:'オランダ'
     }
 ];
 
